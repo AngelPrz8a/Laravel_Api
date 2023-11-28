@@ -9,6 +9,7 @@ An API that displays blog's post, creating new versions with new features withou
 ## Tech Stack
 
 **Client:** [TailwindCSS](https://tailwindcss.com)
+
 **Server:** [Laravel](https://laravel.com/)
 
 
